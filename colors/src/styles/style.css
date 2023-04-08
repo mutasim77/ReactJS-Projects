@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #292929;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.container{
+    max-width: 1350px;
+    padding: 0 15px;
+    margin: 10% auto 0 auto;
+}
+
+.show-hex::after{
+    content: attr(data-after);
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 50%;
+    height: 20%;
+    top: 35%;
+    text-align: center;
+    border-radius: 7px;
+}   
+
+  
+.checkmark::after {
+    position: absolute;
+    content: '';
+    left: 40%;
+    top: 45%;
+    opacity: 1;
+    height: 1.7em;
+    width: .8em;
+    transform-origin: left top;
+    border-right: 3px solid #5cb85c;
+    border-top: 3px solid #5cb85c;
+    transform: scaleX(-1) rotate(135deg);
+    animation: checkmark .5s ease;
+}
+
+.checkmark::before {
+    position: absolute;
+    content: 'copied';
+    left: 40%;
+    top: 55%;
+    width: 20px;
+    height: 10px;
+}
+
+@keyframes checkmark {
+    0% {
+        height: 0;
+        width: 0;
+    }
+    20% {
+        height: 0;
+        width: 0.8em;
+    }
+    40% {
+        width: 0.8em;
+        height: 1.7em;
+    }
+    100% {
+        width: 0.8em;
+        height: 1.7em;
+    }
+}
