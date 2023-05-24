@@ -8,4 +8,4 @@ As you may already know, React is a powerful ⚡ and popular 🌟 JavaScript lib
 
 In this repository, you will find mini projects that I've created using React.🪐 These projects are designed to showcase various features and functionalities of React, and they are a great resource 💡 for anyone who wants to start learning React or for those who want to practice and improve their skills.🖇
 
-So, feel free to explore the projects in this repository 👀, star ⭐ the repository if you find it useful, and don't hesitate to ask me any questions ❓. I'm always happy 😊 to help!
+So, feel free to explore the projects in this repository 👀, star ⭐ the repository if you find it useful, and don't hesitate to ask me any questions ❓. I'm always happy 😊 to help! 
