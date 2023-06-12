@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background:linear-gradient(to left, #eb6363, #91b2f3);
+}
+
+main {
+    background: rgba(255, 255, 255, .4);
+    box-shadow: -7px -7px 15px rgba(0, 0, 0, 0.3);
+    border: 2px solid rgba(255, 255, 255, 1);
+    backdrop-filter: blur(15px);
+    border-radius: 15px;
+}
