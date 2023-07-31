@@ -10,7 +10,8 @@ const SingleComic = ({ comicId }) => {
     const { loading, error, clearError, getComic } = useMarvelService();
 
     useEffect(() => {
-        updateComic()
+        updateComic();
+        // eslint-disable-next-line
     }, [comicId])
 
     const updateComic = () => {
