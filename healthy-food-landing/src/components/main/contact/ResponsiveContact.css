@@ -1,0 +1,30 @@
+@media all and (max-width: 600px) {
+    .contact {
+        height: 300px;
+        margin-top: -3.5rem;        
+        
+    }    
+    .rigthContact {
+        display: none;
+    }    
+
+    .btnContact input {
+        width: 190px;
+        
+    }
+
+    .btnContact button {
+        height: 2rem;
+    }
+
+    .infosContact {
+        
+        width: 85%;
+        text-align: center;
+        align-items: center;
+    }
+
+    .infosContact h2 {
+        color: #92d362;;
+    }
+}

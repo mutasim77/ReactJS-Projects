@@ -1,0 +1,96 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wraper {
+  width: 85%;
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+}
+
+.logo h1 {
+  color: #92d362;
+  font-size: 2rem;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 45%;
+  color: white;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 80%;
+}
+
+li {
+  font-size: .8rem;
+}
+
+button {
+  border: none;
+  height: 40px;
+  width: 90px;
+  border-radius: 5px;
+  color: #92d362;
+  font-size: .8rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+  transition: all 0.6s;
+}
+
+a:hover {
+  color: rgb(3, 3, 82);
+  border-bottom: 1px solid rgb(3, 3, 82);
+}
+
+.modal{
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 14rem;
+  text-align: center;
+}
+
+.modal input {
+  height: 2rem;
+  width: 90%;
+}
+
+.modalBtn {
+  width: 80%;
+  background-color: #92d362;
+  color: white;
+  cursor: pointer;
+  transition: all ease .8s;
+}
+
+.modalBtn:hover {
+  background-color: #639143;
+  
+}
+
+
+
+

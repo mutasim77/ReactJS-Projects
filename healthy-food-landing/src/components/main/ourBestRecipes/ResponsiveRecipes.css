@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+    .bRecipes {
+        background-color: #92d362;
+        width: 100%;
+        height: 1770px;
+        align-items: flex-start;
+                
+    }
+
+    .recipe-posts {
+        justify-content: center;
+        
+    }
+
+    .infos h2 {
+        color: white;
+    }
+    
+
+   
+}

@@ -1,0 +1,59 @@
+.blog {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    height: 35rem;
+    margin-bottom: 3rem;
+}
+
+.topInfo {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.topInfo h2 {
+    font-size: 2.5rem;
+    color: rgb(3, 3, 82);
+    margin: 1rem 0;
+}
+
+.topInfo p {
+    color: rgba(0, 0, 0, 0.445);
+    margin-bottom: 2rem;
+    text-align: center;
+    width: 40%;
+}
+
+.postsWrapper {
+    display: flex;
+    width: 100%;    
+}
+
+.postBtn {
+    display: flex;
+    align-items: center;
+    transition: all ease 1s;
+    
+}
+
+.postBtn button {
+    background-color: #92d362;
+    color: white;
+    font-size: 1.5rem;
+    animation: pulse 3s infinite;
+}
+
+.postBtn button:hover {
+    cursor: pointer;
+}
+
+
+@keyframes pulse {
+    0% {transform: scale(1)}
+    50% {transform: scale(1.1)}
+    100% {transform: scale(1)}
+  }
+

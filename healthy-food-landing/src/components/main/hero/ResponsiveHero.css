@@ -1,0 +1,49 @@
+@media all and (max-width: 600px) {
+  .HeroSec {
+        
+      align-items: center;
+      margin-top: 3rem;
+  }
+
+  .leftContent {
+    width: 100%;
+  }
+
+  .leftContent h2 {
+    color: #92d362;
+    width: 100%;
+    text-align: center;
+  }
+
+  .rigthContent {
+    display: none;
+  }
+
+  .heroImg {
+      display: none;
+  }
+
+  .contentWrapper {
+    height: 20rem;
+    align-items: flex-start;
+    
+  }
+
+  .handle {
+    margin-top: 2rem;
+    justify-content: center;
+  }
+
+  .handle input {
+    width: 9rem;
+    height: 2.5rem;
+    font-size: .7rem;
+    color: black;
+  }
+
+  .handle button {
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-left: 1.2rem;
+  }
+}

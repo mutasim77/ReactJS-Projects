@@ -1,0 +1,55 @@
+.contatWrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.leftContact {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    
+    width: 100%;
+    
+}
+
+.infosContact {
+    width: 70%;
+    height: 20rem;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.infosContact h2 {
+    font-size: 2.5rem;
+    width: 90%;
+    color: rgb(3, 3, 82);
+    margin-bottom: 2rem;
+}
+
+.btnContact {
+    display: flex;
+}
+
+.btnContact input {
+    width: 20rem;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.377);
+    text-indent: 1rem;
+    margin-right: 1rem;
+}
+
+.btnContact button {
+  background-color: #92d362;
+  color: white;
+  font-size: .9rem;
+  font-weight: 100;  
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.233);
+}
+
+

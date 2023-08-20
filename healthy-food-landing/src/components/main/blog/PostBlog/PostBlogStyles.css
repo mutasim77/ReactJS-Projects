@@ -1,0 +1,55 @@
+.PostBlog {
+    display: flex;
+    flex-flow: column wrap;
+    width: 20rem;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.466);
+    margin: 0 1.5rem;
+    transition: all 0.3s;
+    
+}
+
+.PostBlog:hover {
+    transform: scale(1.05)
+}
+
+.middleBlog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 6rem;
+}
+
+.middleBlog h2 {
+  color: rgb(3, 3, 82);
+  line-height: 2rem;
+ 
+  width: 85%;
+  
+}
+
+.botBlog {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.botBlog img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.botProfile {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 85%;
+    height: 4rem;
+}
+
+.botProfile p {
+    margin: 1rem;
+    color: rgba(0, 0, 0, 0.37);
+}

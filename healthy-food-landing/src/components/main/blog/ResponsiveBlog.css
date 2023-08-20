@@ -1,0 +1,33 @@
+@media all and (max-width: 600px) {
+    .blog {
+        background-color: #92d362;
+        height: 1550px;
+        align-content: center;
+        justify-content: flex-start;
+            
+    }
+    .postBtn {
+        display: none;
+    }
+
+    .postsWrapper {
+        
+        align-items: center;
+        justify-content: center;
+        flex-flow: column nowrap;
+        height: 1400px;
+        
+    }
+    .PostBlog {
+        margin: 0;
+    }
+
+    .topInfo h2 {
+        color: white;
+    }
+
+    .topInfo p {
+        width: 80%;
+        
+    }
+}

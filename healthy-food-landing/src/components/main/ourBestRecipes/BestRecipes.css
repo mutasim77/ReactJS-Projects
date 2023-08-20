@@ -1,0 +1,35 @@
+.recipes {
+  width: 85%;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.infos {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.infos h2 {
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: rgb(3, 3, 82);
+}
+
+.infos p {
+    color: rgba(0, 0, 0, 0.37);
+    width: 60%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.recipe-posts {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  height: 35rem;
+}

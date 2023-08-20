@@ -1,0 +1,31 @@
+
+@media all and (max-width: 600px) { 
+
+    header {
+        background-color: #92d362;
+    }
+    .wraper ul{
+      display: none;
+      
+    }
+  
+    .wraper {
+      justify-content: space-between;
+      width: 85%;
+    }
+  
+    .wraper h1 {
+      color: white;
+      font-size: 2rem;
+      
+    }
+
+    nav {
+        width: 5rem;
+    }
+
+    button {
+        width: 5rem;
+        height: 1.5rem;
+    }
+   }

@@ -1,0 +1,36 @@
+.postWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 32rem;
+  height: 13.5rem;
+  border-radius: 10px;
+  box-shadow: -5px 5px 15px rgba(0, 0, 0, 0.425);
+  overflow: hidden;
+  transition: all ease 0.3s;
+}
+
+.postWrapper:hover {
+  transform: scale(1.01);
+}
+
+.rigthInfo {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start;
+  width: 43%;
+}
+
+.rigthInfo h2 {
+  color: rgb(3, 3, 82);
+  width: 100%;
+  height: 60%;
+  line-height: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.rigthInfo button {
+  background-color: #92d362;
+  color: white;
+  width: 7rem;
+}

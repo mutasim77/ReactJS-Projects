@@ -1,0 +1,16 @@
+@media all and (max-width: 600px) {
+    .PostBlog {
+        width: 60%;
+        align-items: center;
+        align-content: center;
+        height: 26rem;
+        background-color: white;
+        margin-bottom: 2rem;
+    }
+
+    .middleBlog h2 {
+        
+        width: 90%;
+        text-align: center;
+    }
+}

@@ -1,0 +1,24 @@
+@media all and (max-width: 600px) {
+   footer {
+       height: 190px;
+       background-color: #92d362;
+       align-items: flex-start;
+       justify-content: center;
+       align-content: center;
+       
+   }
+
+   .footer {
+    margin-top: 1rem;
+    width: 90%;
+   }
+
+   .leftContent p {
+    font-size: .7rem;
+    color: white;
+   }
+
+   .rigthContent p {
+    font-size: .7rem;
+   }
+}

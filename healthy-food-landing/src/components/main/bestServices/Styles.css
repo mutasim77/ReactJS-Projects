@@ -1,0 +1,43 @@
+.services {
+  width: 100%;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-flow: row nowrap;
+}
+
+.servicesWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rigthServices {
+  width: 50%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.rigthServices h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: rgb(3, 3, 82);
+  width: 60%;
+}
+
+.rigthServices p {
+  color: rgba(0, 0, 0, 0.37);
+  width: 60%;
+  
+  margin-bottom: 2rem;
+}
+
+.rigthServices button {
+    background-color: #92d362;
+    color: white;
+    width: 20%;
+    box-shadow: 1px 8px 10px rgba(0, 0, 0, 0.205);
+}

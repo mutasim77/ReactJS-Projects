@@ -1,0 +1,24 @@
+footer {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  width: 75%;
+
+  justify-content: space-between;
+}
+
+.rigthContent {
+  display: flex;
+
+  width: 30%;
+  justify-content: space-between;
+}
+
+.rigthContent a {
+  color: rgba(0, 0, 0, 0.315);
+}
