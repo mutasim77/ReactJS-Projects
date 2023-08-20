@@ -1,0 +1,42 @@
+.header{
+    margin-bottom: 30px;
+
+    > .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .logo{
+        img{
+            width: 120px;
+        }
+    }
+
+    .list-items{
+        list-style: none;
+        display: flex;
+
+        li{
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: all .3s ease;
+
+            &:not(:last-child){
+                margin-right: 25px;
+            }  
+
+            &:hover{
+                color: #b1df28;
+            }
+        }
+    }
+
+    .btn{
+        padding: .4em 2em;
+        border: 1px solid #000;
+        background-color: #b1df28;
+        border-radius: 7px;
+        cursor: pointer;
+    }
+}

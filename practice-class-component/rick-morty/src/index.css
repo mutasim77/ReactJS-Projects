@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+	max-width: 1230px;
+	padding: 0 30px;
+	margin: 0 auto;
+}
+
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+.card{
+  color: #000 !important;
+}

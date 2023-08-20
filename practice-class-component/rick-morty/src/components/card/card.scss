@@ -1,0 +1,39 @@
+.card{
+    background-color: #535353;
+    color: #fff;
+    width: 270px;
+    height: 360px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 15px;
+    h1{
+        font-size: 1.2em;
+    }
+    p{
+        font-size:1em;
+        margin: 10px 0 ;
+    }
+
+    img{
+        width: 240px;
+        height: 240px;
+        object-fit: cover;
+        border-radius: 7px;
+    }
+
+    i{
+        &.green{
+            color: #0cb40c;
+        }
+        &.red{
+            color: #f01c1c;
+        }
+        &.black{
+            color:  #000;
+        }
+    }
+
+}
+.btn{
+    padding: .5em 3em !important;
+}
