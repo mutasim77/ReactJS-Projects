@@ -1,0 +1,21 @@
+.con{
+    max-width: 400px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 2em;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.con .input{
+     border: 1px solid #000;
+     border-radius: 5px;
+     padding: 1em 2em;
+}
+
+.con button:not(:last-child){
+    margin-right: 5px;
+}
+
