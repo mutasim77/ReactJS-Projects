@@ -1,0 +1,29 @@
+{
+  "todo": [
+    {
+      "id": "39bibbM86Cwy0m1ls6JGA",
+      "text": "Buy some stuff",
+      "status": false
+    },
+    {
+      "id": "ayOj8pW13A6brYdy72ytV",
+      "text": "read a book",
+      "status": false
+    },
+    {
+      "id": "TRHOFE9iLlAOC1TPkltM6",
+      "text": "painting",
+      "status": false
+    },
+    {
+      "id": "7o00yME1w5PkBw4k6d0CL",
+      "text": "Coding - 3h",
+      "status": false
+    },
+    {
+      "id": "3diJ4XGivoomw1T7aZCNn",
+      "text": "Test",
+      "status": false
+    }
+  ]
+}
