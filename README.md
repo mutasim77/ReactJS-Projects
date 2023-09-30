@@ -9,3 +9,41 @@ As you may already know, React is a powerful ⚡ and popular 🌟 JavaScript lib
 In this repository, you will find mini projects that I've created using React.🪐 These projects are designed to showcase various features and functionalities of React, and they are a great resource 💡 for anyone who wants to start learning React or for those who want to practice and improve their skills.🖇
 
 So, feel free to explore the projects in this repository 👀, star ⭐ the repository if you find it useful, and don't hesitate to ask me any questions ❓. I'm always happy 😊 to help! 
+
+<hr>
+
+### Demo of projects :
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/currency-converter">Currency Converter</a>
+<img width="900" alt="CurrencyPic" src="currency-converter/ScreenShot.png">
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/react-router-app">React Router v6</a>
+<img width="900" alt="React Router" src="react-router-app/Screenshot.png">
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/employees">Employees</a>
+<img width="900" alt="Employees" src="employees/ScreenShot .png">
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/bank_modern_app">Bank App</a>
+![Bank App](https://github.com/mutasim77/ReactJS-Projects/assets/96326525/14abbbdd-db59-4cc2-9375-9d3d5d585a39)
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/marvel-app-api">Marvel App</a>
+<div style="display: flex;">
+  <img width="500" alt="Marvel pic" src="marvel-app-api/Screenshot-1.png">
+  <img width="500" alt="Marvel pic" src="marvel-app-api/Screenshot-2.png">
+</div>
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/practice-class-component/rick-morty">Rick & Morty</a>
+<img width="900" alt="Rick Morty" src="practice-class-component/rick-morty/Screenshot.png">
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/thinking-in-RToolkit">Thinking in RTK</a>
+<img width="900" alt="RTK" src="thinking-in-RToolkit/Screenshot.png">
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/threejs-react-app">ThreeJS React App</a>
+<img width="900" alt="ThreeJS" src="threejs-react-app/Screenshot.png">
+
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/todo-rtk-query">TodoAPP - RTK Query</a>
+<img width="900" alt="TodoApp" src="todo-rtk-query/Screenshot.png">
+
+- <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/healthy-food-landing">Healthy-Food Landing Page</a>
+<img width="900" alt="Landing Page" src="healthy-food-landing/Screenshot.png">
