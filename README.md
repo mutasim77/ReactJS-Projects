@@ -20,6 +20,18 @@ So, feel free to explore the projects in this repository 👀, star ⭐ the repo
 - <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/react-router-app">React Router v6</a>
 <img width="900" alt="React Router" src="react-router-app/Screenshot.png">
 
+- <a href="https://github.com/mutasim77/TranslateWave">Translate Wave</a>
+<img width="900" alt="TranslateWave" src="https://github.com/mutasim77/ReactJS-Projects/assets/96326525/57deae29-d7e9-4a1c-bf57-d6d5751fddcb">
+
+- <a href="https://github.com/mutasim77/ImagiNet">ImagiNet</a>
+<img width="900" alt="ImagiNet" src="https://github.com/mutasim77/ReactJS-Projects/assets/96326525/cd31f2fd-2d79-44fd-b279-e6f9360b38ea">
+
+- <a href="https://github.com/mutasim77/react-admin-dashboard">React Admin Dashboard</a>
+<img width="900" alt="Dashboard" src="https://github.com/mutasim77/ReactJS-Projects/assets/96326525/fdba1906-bb27-4b31-ac42-bf26be60e75e">
+
+- <a href="https://github.com/mutasim77/Birth-to-Death">Life checklist</a>
+<img width="900" alt="BirthToDeath" src="https://github.com/mutasim77/ReactJS-Projects/assets/96326525/ce4b1583-784d-42a0-bc14-9c8881b19b5a">
+
 - <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/employees">Employees</a>
 <img width="900" alt="Employees" src="employees/ScreenShot .png">
 
