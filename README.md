@@ -53,7 +53,6 @@ So, feel free to explore the projects in this repository 👀, star ⭐ the repo
 - <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/threejs-react-app">ThreeJS React App</a>
 <img width="900" alt="ThreeJS" src="threejs-react-app/Screenshot.png">
 
-
 - <a href="https://github.com/mutasim77/ReactJS-Projects/tree/main/todo-rtk-query">TodoAPP - RTK Query</a>
 <img width="900" alt="TodoApp" src="todo-rtk-query/Screenshot.png">
 
